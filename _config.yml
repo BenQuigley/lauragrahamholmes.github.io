@@ -83,10 +83,10 @@ author:
   name             : "Laura Graham Holmes"
   avatar           : "laura.jpg"
   bio              : "Assistant Prof. CUNY Hunter College. She/her. #BiInSci 🌈 Twin mom. Research: Sexuality, substance use, quality of life & health on the autism spectrum."
-  location         : "Location"
+  location         :
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=nxKytmAAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/drgrahamholmes"
   vine             :
   weibo            :
   xing             :
