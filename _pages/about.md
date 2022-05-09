@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-========
-
 This is Dr. Laura Graham Holmes's home on the web!
 
 Research Interests
