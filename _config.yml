@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Laura Graham Holmes"
 title_separator          : "-"
 name                     : &name "Laura Graham Holmes"
-description              : &description "Assistant Prof. CUNY Hunter College. She/her. #BiInSci 🌈 Twin mom. Research: Sexuality, substance use, quality of life & health on the autism spectrum."
+description              : &description "Assistant Prof. CUNY Hunter College. She/her. 🌈 Twin mom. Research: Sexuality, substance use, quality of life & health on the autism spectrum."
 url                      : https://drgrahamholmes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "drgrahamholmes/drgrahamholmes.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Laura Graham Holmes"
   avatar           : "laura.jpg"
-  bio              : "Assistant Prof. CUNY Hunter College. She/her. #BiInSci 🌈 Twin mom. Research: Sexuality, substance use, quality of life & health on the autism spectrum."
+  bio              : "Assistant Prof. CUNY Hunter College. She/her. 🌈 Twin mom. Research: Sexuality, substance use, quality of life & health on the autism spectrum."
   location         :
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1nqMw9hAm-gA6G/bibliography/public/"
