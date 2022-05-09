@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Laura Graham Holmes"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Laura Graham Holmes"
+description              : &description "Assistant Prof. CUNY Hunter College. She/her. #BiInSci 🌈 Twin mom. Research: Sexuality, substance use, quality of life & health on the autism spectrum."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Laura Graham Holmes"
+  avatar           : "laura.jpg"
+  bio              : "Assistant Prof. CUNY Hunter College. She/her. #BiInSci 🌈 Twin mom. Research: Sexuality, substance use, quality of life & health on the autism spectrum."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
