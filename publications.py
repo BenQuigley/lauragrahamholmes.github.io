@@ -162,6 +162,4 @@ for publication, data in zip(publications, titles_and_data):
             f"paperurl: {url}\n"
             "---\n"
         )
-        if url:
-            outfile.write(f"[Download paper here]({url}).\n")
 print(tabulate.tabulate(rows, headers=headers))
