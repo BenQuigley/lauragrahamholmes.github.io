@@ -158,8 +158,7 @@ for publication, data in zip(publications, titles_and_data):
             f'title: "{title}"\n'
             "collection: publications\n"
             f"permalink: /publications/{slug}\n"
-            f"date: {year}\n"
-            f"venue: {publication}\n"
+            f"venue: {journal}\n"
             f"paperurl: {url}\n"
             "---\n"
         )
