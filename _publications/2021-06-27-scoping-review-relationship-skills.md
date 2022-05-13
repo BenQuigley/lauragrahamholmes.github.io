@@ -6,6 +6,4 @@ date: 2021-06-27
 venue: 'Review Journal of Autism and Developmental Disorders'
 paperurl: 'https://doi.org/10.1007/s40489-021-00274-7'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](https://doi.org/10.1007/s40489-021-00274-7)
+[Download paper here](https://doi.org/10.1007/s40489-021-00274-7).
